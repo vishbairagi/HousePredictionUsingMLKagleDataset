@@ -13,16 +13,7 @@ The repository includes the following files:
 - `predictions.db` - Database file to store predictions.
 - `train.csv` - The dataset used for training the model.
 
-HousePredictionUsingMLKagleDatase :
-├── app.py                  # Main Flask application
-├── house_price_train.py    # Script to train the ML model
-├── house_price_ui.py       # UI script for model interaction
-├── house_price_model.pkl   # Trained machine learning model
-├── predictions.db          # SQLite database for storing predictions
-├── train.csv               # Dataset used for training
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── LICENSE                 # License file (MIT or other)
+
 
 
 ## Getting Started
